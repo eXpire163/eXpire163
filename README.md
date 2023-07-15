@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... create an Issue ;)
 - ⚡ Fun fact: ... Autonomous flying can be boring
 
+Tools to checkout:
+
+- mini timer countdown for meetings: https://expire163.github.io/count-down-time/
+
